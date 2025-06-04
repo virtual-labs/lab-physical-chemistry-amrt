@@ -36,35 +36,35 @@
     "name": "EMF measurement",
     "short-name": "emf-measurement",
     "repo": "https://github.com/virtual-labs/exp-emf-measurement-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Determination of Viscosity of Organic Solvents",
     "short-name": "determination-viscosity-organic-solvents",
     "repo": "https://github.com/virtual-labs/exp-determination-viscosity-organic-solvents-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Determination of Viscosity Average Molecular Weight of Polymer",
     "short-name": "average-molecular-weight-polymer",
     "repo": "https://github.com/virtual-labs/exp-average-molecular-weight-polymer-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Calorimetry - Water equivalent Calorimetry",
     "short-name": "calorimetry-water-equivalent",
     "repo": "https://github.com/virtual-labs/exp-calorimetry-water-equivalent-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Calorimetry - Heat of Neutralization",
     "short-name": "calorimetry-heat-neutralization",
     "repo": "https://github.com/virtual-labs/exp-calorimetry-heat-neutralization-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
@@ -85,7 +85,7 @@
             "University of Calicut.",
             "University of Kerala.",
             "APJ Abdul Kalam Technological University.",
-            "NIT Calicut; B. Tech: Physics."
+            "NIT Calicut."
         ]
 
   }
