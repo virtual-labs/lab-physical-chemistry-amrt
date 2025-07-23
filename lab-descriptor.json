@@ -9,13 +9,13 @@
     "phase": 2,
     "collegeName": "AMRT",
     "baseUrl": "pcv-amrt.vlabs.ac.in",
-  "introduction": "Physical Chemistry forms the foundational bridge between the theoretical principles of chemistry and their quantitative application in real-world systems. It explores the underlying physical principles that govern chemical behavior, encompassing areas such as thermodynamics, chemical kinetics, electrochemistry, spectroscopy, and the physicochemical properties of materials. However, students often find it challenging to connect abstract theoretical concepts to experimental practice due to limitations in time, resources, and safety within traditional laboratory settings.<br>The Physical Chemistry Virtual Labs aim to overcome these challenges by offering a digitally simulated, interactive learning environment that replicates core physical chemistry experiments. These virtual labs allow learners to visualize, manipulate, and analyze experimental setups and outcomes in a risk-free and accessible manner. Through simulations such as spectrophotometry, calorimetry, viscosity measurements, and electrochemical analysis, students are provided with opportunities to reinforce theoretical knowledge, engage in scientific inquiry, and build conceptual understanding at their own pace.",
-  "experiments":[
+    "introduction": "Physical Chemistry forms the foundational bridge between the theoretical principles of chemistry and their quantitative application in real-world systems. It explores the underlying physical principles that govern chemical behavior, encompassing areas such as thermodynamics, chemical kinetics, electrochemistry, spectroscopy, and the physicochemical properties of materials. However, students often find it challenging to connect abstract theoretical concepts to experimental practice due to limitations in time, resources, and safety within traditional laboratory settings.<br>The Physical Chemistry Virtual Labs aim to overcome these challenges by offering a digitally simulated, interactive learning environment that replicates core physical chemistry experiments. These virtual labs allow learners to visualize, manipulate, and analyze experimental setups and outcomes in a risk-free and accessible manner. Through simulations such as spectrophotometry, calorimetry, viscosity measurements, and electrochemical analysis, students are provided with opportunities to reinforce theoretical knowledge, engage in scientific inquiry, and build conceptual understanding at their own pace.",
+    "experiments":[
   {
     "name": "Spectrophotometry",
     "short-name": "spectrophotometry",
     "repo": "https://github.com/virtual-labs/exp-spectrophotometry-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -50,14 +50,14 @@
     "name": "Determination of Viscosity Average Molecular Weight of Polymer",
     "short-name": "average-molecular-weight-polymer",
     "repo": "https://github.com/virtual-labs/exp-average-molecular-weight-polymer-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Calorimetry - Water equivalent Calorimetry",
     "short-name": "calorimetry-water-equivalent",
     "repo": "https://github.com/virtual-labs/exp-calorimetry-water-equivalent-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
