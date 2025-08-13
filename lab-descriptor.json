@@ -15,70 +15,70 @@
     "name": "Spectrophotometry",
     "short-name": "spectrophotometry",
     "repo": "https://github.com/virtual-labs/exp-spectrophotometry-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Cryoscopy",
     "short-name": "cryoscopy",
     "repo": "https://github.com/virtual-labs/exp-cryoscopy-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Ebullioscopy",
     "short-name": "ebullioscopy",
     "repo": "https://github.com/virtual-labs/exp-ebullioscopy-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "EMF measurement",
     "short-name": "emf-measurement",
     "repo": "https://github.com/virtual-labs/exp-emf-measurement-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Determination of Viscosity of Organic Solvents",
     "short-name": "determination-viscosity-organic-solvents",
     "repo": "https://github.com/virtual-labs/exp-determination-viscosity-organic-solvents-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Determination of Viscosity Average Molecular Weight of Polymer",
     "short-name": "average-molecular-weight-polymer",
     "repo": "https://github.com/virtual-labs/exp-average-molecular-weight-polymer-amrt",
-    "tag": "v1.0.2",
+    "tag": "v1.0.3",
     "deploy": true
   },
   {
     "name": "Calorimetry - Water equivalent Calorimetry",
     "short-name": "calorimetry-water-equivalent",
     "repo": "https://github.com/virtual-labs/exp-calorimetry-water-equivalent-amrt",
-    "tag": "v1.0.2",
+    "tag": "v1.0.3",
     "deploy": true
   },
   {
     "name": "Calorimetry - Heat of Neutralization",
     "short-name": "calorimetry-heat-neutralization",
     "repo": "https://github.com/virtual-labs/exp-calorimetry-heat-neutralization-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
       {
     "name": "Adsorption Isotherm",
     "short-name": "adsorption-isotherm",
     "repo": "https://github.com/virtual-labs/exp-adsorption-isotherm-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Verification of Tafel Equation",
     "short-name": "verification-tafel-equation",
     "repo": "https://github.com/virtual-labs/exp-verification-tafel-equation-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
